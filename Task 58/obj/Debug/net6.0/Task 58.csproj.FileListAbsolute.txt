@@ -1,0 +1,15 @@
+C:\Users\korzu\OneDrive\Рабочий стол\C# HomeWork\CSHomeWork\Task 58\bin\Debug\net6.0\Task 58.exe
+C:\Users\korzu\OneDrive\Рабочий стол\C# HomeWork\CSHomeWork\Task 58\bin\Debug\net6.0\Task 58.deps.json
+C:\Users\korzu\OneDrive\Рабочий стол\C# HomeWork\CSHomeWork\Task 58\bin\Debug\net6.0\Task 58.runtimeconfig.json
+C:\Users\korzu\OneDrive\Рабочий стол\C# HomeWork\CSHomeWork\Task 58\bin\Debug\net6.0\Task 58.dll
+C:\Users\korzu\OneDrive\Рабочий стол\C# HomeWork\CSHomeWork\Task 58\bin\Debug\net6.0\Task 58.pdb
+C:\Users\korzu\OneDrive\Рабочий стол\C# HomeWork\CSHomeWork\Task 58\obj\Debug\net6.0\Task 58.csproj.AssemblyReference.cache
+C:\Users\korzu\OneDrive\Рабочий стол\C# HomeWork\CSHomeWork\Task 58\obj\Debug\net6.0\Task 58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korzu\OneDrive\Рабочий стол\C# HomeWork\CSHomeWork\Task 58\obj\Debug\net6.0\Task 58.AssemblyInfoInputs.cache
+C:\Users\korzu\OneDrive\Рабочий стол\C# HomeWork\CSHomeWork\Task 58\obj\Debug\net6.0\Task 58.AssemblyInfo.cs
+C:\Users\korzu\OneDrive\Рабочий стол\C# HomeWork\CSHomeWork\Task 58\obj\Debug\net6.0\Task 58.csproj.CoreCompileInputs.cache
+C:\Users\korzu\OneDrive\Рабочий стол\C# HomeWork\CSHomeWork\Task 58\obj\Debug\net6.0\Task 58.dll
+C:\Users\korzu\OneDrive\Рабочий стол\C# HomeWork\CSHomeWork\Task 58\obj\Debug\net6.0\refint\Task 58.dll
+C:\Users\korzu\OneDrive\Рабочий стол\C# HomeWork\CSHomeWork\Task 58\obj\Debug\net6.0\Task 58.pdb
+C:\Users\korzu\OneDrive\Рабочий стол\C# HomeWork\CSHomeWork\Task 58\obj\Debug\net6.0\Task 58.genruntimeconfig.cache
+C:\Users\korzu\OneDrive\Рабочий стол\C# HomeWork\CSHomeWork\Task 58\obj\Debug\net6.0\ref\Task 58.dll
